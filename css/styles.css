@@ -1,0 +1,19 @@
+h1, h2 {
+    color: gray;
+}
+.add-new-task {
+    background-color: yellow;
+    height: 200px;
+}
+h2, .label {
+    padding: 20px;
+}
+button {
+    color: white;
+    background-color: green;
+    height: 20px;
+    width: 100px;
+    border: gray 1px solid;
+    border-radius: 8%;
+    margin: 20px;
+}
